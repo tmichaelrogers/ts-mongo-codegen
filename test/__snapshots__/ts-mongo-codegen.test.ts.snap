@@ -326,8 +326,7 @@ input BookSet {
   title: String
   author: String
   category: Category
-}
-"
+}"
 `;
 
 exports[`TS Mongo Codegen Should build crud operations: usersAugmentedSchema 1`] = `
@@ -491,8 +490,7 @@ input UserUnset {
 input UserSet {
   email: String
   username: String
-}
-"
+}"
 `;
 
 exports[`TS Mongo Codegen Should build user collection types: collectionTypes 1`] = `
